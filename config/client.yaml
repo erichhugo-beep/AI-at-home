@@ -1,0 +1,4 @@
+﻿idle_threshold_seconds: 5
+debounce_seconds: 3
+log_dir: ./logs
+primary_os: auto
